@@ -1,0 +1,24 @@
+{
+  "name": "@bony98/sample-plugin",
+  "version": "1.0.1",
+  "description": "A sample plugin for demonstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish-plugin": "npm publish --access publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bony98/sample-plugin.git"
+  },
+  "keywords": [
+    "sample",
+    "plugin"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bony98/sample-plugin/issues"
+  },
+  "homepage": "https://github.com/bony98/sample-plugin#readme"
+}
