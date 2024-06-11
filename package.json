@@ -1,6 +1,6 @@
 {
   "name": "@bony98/sample-plugin",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A sample plugin for demonstration",
   "main": "index.js",
   "scripts": {
